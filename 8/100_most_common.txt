@@ -1,0 +1,101 @@
+expression	class	count
+Krajowa Izba Odwoławcza 	nam_org	64
+Odwołującego 	nam_liv	60
+Sąd Okręgowy 	nam_org	60
+Prawo zamówień publicznych 	nam_pro	59
+Zamawiającego 	nam_liv	52
+Sąd Najwyższy 	nam_org	47
+Trybunał Konstytucyjny 	nam_org	45
+BANK SA 	nam_org	43
+Sąd Apelacyjny 	nam_org	38
+Najwyższy 	nam_liv	31
+Sądu Najwyższego 	nam_org	30
+Zamawiający 	nam_liv	28
+Izby 	nam_loc	24
+Sąd Rejonowy 	nam_org	24
+Trybunału Konstytucyjnego 	nam_org	23
+Sądu Okręgowego 	nam_org	23
+Sądu Apelacyjnego 	nam_org	20
+Prezesa Krajowej Izby Odwoławczej 	nam_org	19
+Zamawiającemu 	nam_liv	17
+Odwołujący 	nam_liv	17
+Krajowej Izby Odwoławczej 	nam_org	16
+Dz 	nam_pro	16
+VAT 	nam_oth	14
+Skarżący 	nam_liv	13
+BNG Naftomontaż Przemyśl Sp 	nam_org	13
+zł 	nam_oth	11
+Sądu Rejonowego 	nam_org	11
+Dzienniku Urzędowym 	nam_pro	10
+Siemens 	nam_liv	10
+VAT 	nam_org	10
+Najwyższego 	nam_liv	8
+Warszawie 	nam_loc	8
+Spectrum Silesia Service Sp 	nam_org	8
+Krzysztof Strzelczyk 	nam_liv	7
+Kazimierz Jaśkowski 	nam_liv	7
+Karta Nauczyciela 	nam_liv	7
+S 	nam_liv	6
+Teresa Flemming 	nam_liv	6
+Krzysztof Rdest 	nam_liv	6
+Firma Usługowo 	nam_org	6
+Spółdzielni Inwalidów 	nam_liv	6
+TK 	nam_org	5
+Prokurator Prokuratury Generalnej 	nam_org	5
+Janusz Łukaszewski 	nam_liv	5
+J 	nam_liv	5
+Wykonawca CleanUp24 Sp 	nam_org	5
+Prezesa Rady Ministrów 	nam_org	5
+Sąd Okręgowy – Sąd Pracy i Ubezpieczeń Społecznych 	nam_org	5
+Spółka 	nam_liv	5
+Sąd OKIK 	nam_org	5
+Sąd Okręgowy w Warszawie 	nam_org	5
+Obecny Odwołujący 	nam_liv	5
+Prawo Zamówień Publicznych 	nam_pro	4
+Urzędowi Zamówień Publicznych 	nam_org	4
+M 	nam_liv	4
+Pawła R 	nam_liv	4
+Sądowi Apelacyjnemu 	nam_org	4
+Przystępującego 	nam_liv	4
+Warszawy 	nam_loc	4
+Izba 	nam_liv	4
+UE 	nam_org	4
+Skarbu Państwa 	nam_org	4
+Jerzy Kuźniar 	nam_liv	4
+Spółdzielnię Inwalidów 	nam_liv	4
+Kazimierz Szerszeń 	nam_liv	4
+Przedsiębiorstwo Produkcyjno 	nam_org	4
+Control Process S 	nam_org	4
+KRS 	nam_org	3
+GE Wind Energy GmbH 	nam_org	3
+GE International S 	nam_org	3
+SAG Elbud Gdańsk Holding S 	nam_org	3
+Wykonawca 	nam_liv	3
+Sądowi Okręgowemu 	nam_org	3
+Zbigniew Cieślak 	nam_liv	3
+Krzysztofa M 	nam_liv	3
+Z A S A D 	nam_org	3
+Biuletynie Zamówień Publicznych 	nam_org	3
+Impel Cleaning Sp 	nam_org	3
+Ekośrodowisko Sp 	nam_org	3
+SN 	nam_org	3
+Bogusława L 	nam_liv	3
+Rada Miejska w Zatorze 	nam_org	3
+ZUS 	nam_org	3
+Bogusław Cudowski 	nam_liv	3
+Prezesa Urzędu 	nam_org	3
+Prawo zamówień publicznych oraz niektórych innych ustaw 	nam_pro	3
+Inwalidów 	nam_org	3
+Asseco Poland S 	nam_org	3
+Sąd Rejonowy dla Wrocławia 	nam_org	3
+Poland 	nam_loc	2
+Zakładu Ubezpieczeń Społecznych 	nam_org	2
+Krajowego Rejestru Karnego 	nam_org	2
+Alstom Power Sp 	nam_org	2
+Programu Funkcjonalno 	nam_eve	2
+RODEN Road Design Polska Sp 	nam_org	2
+Sąd Okręgowy we Wrocławiu Wydział III Karny 	nam_org	2
+Jana B 	nam_liv	2
+Ordynacja podatkowa 	nam_pro	2
+Urząd Kontroli Skarbowej 	nam_org	2
+Ewa Łętowska 	nam_liv	2

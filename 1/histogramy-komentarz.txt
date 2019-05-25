@@ -1,0 +1,9 @@
+histogram_all.png
+Na histoigramie można zaobserwować, że dominujące są wartości z pierwszego przedziału, tj stosunkowo niewielkie kwoty. Pomimo zastosowania skali logarytmicznej na wykresie wyraźnie przeważa pierwszy przedział kwotowy.
+
+histogram_bellowMillion.png
+Na histogramie widaćm że większość orzeczeń dotyczy kwót, których wartość nie przekracza 200 tys zł, ilość orzeczeń dotycząca coraz większych kwót maleje wykładniczo
+
+
+histogram_aboveMillion.png
+Zdecydowana większość orzeczeń dotyczy kwót oscylujących w granicach kilku milionów złotych. Niewielka ilość orzeczeń dotyczy kwót dużo większych.

@@ -1,0 +1,69 @@
+##########  nam_adj  ##########
+unijny :1
+hiszpański :1
+internetowy :1
+##########  nam_liv  ##########
+zamawiać :97
+odwoływać :79
+najwyższy :39
+skarżący :13
+spółka :11
+Siemens :10
+spółdzielnia inwalid :10
+Krzysztof strzelczyk :7
+Kazimierz Jaśkowski :7
+kart nauczyciel :7
+##########  nam_loc  ##########
+izba :24
+Warszawa :13
+Poland :2
+RP :2
+program :2
+rzeczpospolita polski :1
+kontrakt :1
+Elbląg :1
+republika czeski :1
+powód :1
+##########  nam_org  ##########
+sąd okręgowy :87
+krajowy izba odwoławczy :82
+sąd najwyższy :80
+trybunał konstytucyjny :69
+sąd apelacyjny :63
+bank SA :43
+sąd rejonowy :36
+prezes krajowy izba odwoławczy :20
+BNG Naftomontaż Przemyśl spółka :13
+VAT :10
+##########  nam_pro  ##########
+prawo zamówienie publiczny :63
+dziennik :15
+dziennik urzędowy :10
+prawo zamówienie publiczny oraz niektóry inny ustawa :3
+ordynacja podatkowy :2
+kodeks postępowanie cywilny :2
+ustawa z dzień 11 marzec 2004 r :2
+dziennik urzędowy wspólnota europejski :2
+DOMEX :2
+ZUS :1
+##########  nam_eve  ##########
+program Funkcjonalno :2
+##########  nam_fac  ##########
+szpital specjalistyczny nr 1 :1
+zamawiać elektrownia wiatrowy resko :1
+elektrownia wiatrowy resko spółka :1
+elektrownia Jaworzno III :1
+KRS :1
+wykonawca spółdzielnia inwalid „ :1
+sąd rejonowy :1
+most spółka :1
+wojewódzki szpital specjalistyczny :1
+spółdzielnia inwalid „ :1
+##########  nam_oth  ##########
+VAT :14
+złoty :12
+GSM :2
+PKD :2
+4 :2
+PIT :1
+euro :1

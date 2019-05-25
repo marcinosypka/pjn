@@ -1,0 +1,70 @@
+##########  nam_adj  ##########
+unijnego :1
+hiszpański :1
+internetowej :1
+##########  nam_liv  ##########
+Odwołującego :60
+Zamawiającego :52
+Najwyższy :31
+Zamawiający :28
+Zamawiającemu :17
+Odwołujący :17
+Skarżący :13
+Siemens :10
+Najwyższego :8
+Krzysztof Strzelczyk :7
+##########  nam_loc  ##########
+Izby :24
+Warszawie :8
+Warszawy :4
+Poland :2
+RP :2
+Programu :2
+Rzeczypospolitej Polskiej :1
+Warszawa :1
+Kontraktu :1
+Elbląg :1
+##########  nam_org  ##########
+Krajowa Izba Odwoławcza :64
+Sąd Okręgowy :60
+Sąd Najwyższy :47
+Trybunał Konstytucyjny :45
+BANK SA :43
+Sąd Apelacyjny :38
+Sądu Najwyższego :30
+Sąd Rejonowy :24
+Trybunału Konstytucyjnego :23
+Sądu Okręgowego :23
+##########  nam_pro  ##########
+Prawo zamówień publicznych :59
+Dz :16
+Dzienniku Urzędowym :10
+Prawo Zamówień Publicznych :4
+Prawo zamówień publicznych oraz niektórych innych ustaw :3
+Ordynacja podatkowa :2
+Kodeks postępowania cywilnego :2
+ustawy z dnia 11 marca 2004 r :2
+Dzienniku Urzędowym Wspólnot Europejskich :2
+DOMEX :2
+##########  nam_eve  ##########
+Programu Funkcjonalno :2
+##########  nam_fac  ##########
+Szpital Specjalistyczny nr 1 :1
+Zamawiającego Elektrownia Wiatrowa Resko :1
+Elektrownia Wiatrowa Resko Sp :1
+Elektrowni Jaworzno III :1
+KRS :1
+Wykonawca Spółdzielnia Inwalidów „ :1
+Sąd Rejonowy :1
+Mostów Sp :1
+Wojewódzki Szpital Specjalistyczny :1
+Spółdzielni Inwalidów „ :1
+##########  nam_oth  ##########
+VAT :14
+zł :11
+GSM :2
+PKD :2
+4 :2
+złotych :1
+PIT :1
+euro :1

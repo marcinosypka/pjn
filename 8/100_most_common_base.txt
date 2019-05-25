@@ -1,0 +1,101 @@
+expression_base	class	count
+zamawiać 	nam_liv	97
+sąd okręgowy 	nam_org	87
+krajowy izba odwoławczy 	nam_org	82
+sąd najwyższy 	nam_org	80
+odwoływać 	nam_liv	79
+trybunał konstytucyjny 	nam_org	69
+prawo zamówienie publiczny 	nam_pro	63
+sąd apelacyjny 	nam_org	63
+bank SA 	nam_org	43
+najwyższy 	nam_liv	39
+sąd rejonowy 	nam_org	36
+izba 	nam_loc	24
+prezes krajowy izba odwoławczy 	nam_org	20
+dziennik 	nam_pro	15
+VAT 	nam_oth	14
+Warszawa 	nam_loc	13
+skarżący 	nam_liv	13
+BNG Naftomontaż Przemyśl spółka 	nam_org	13
+złoty 	nam_oth	12
+spółka 	nam_liv	11
+dziennik urzędowy 	nam_pro	10
+Siemens 	nam_liv	10
+VAT 	nam_org	10
+spółdzielnia inwalid 	nam_liv	10
+spectrum Silesia Service spółka 	nam_org	8
+Krzysztof strzelczyk 	nam_liv	7
+Kazimierz Jaśkowski 	nam_liv	7
+kart nauczyciel 	nam_liv	7
+sąd OKIK 	nam_org	7
+skarb państwo 	nam_org	7
+wykonawca 	nam_liv	6
+urząd zamówienie publiczny 	nam_org	6
+sekunda 	nam_liv	6
+Teresa Flemming 	nam_liv	6
+Krzysztof rdest 	nam_liv	6
+firma usługowo 	nam_org	6
+TK 	nam_org	5
+prokurator prokuratura generalny 	nam_org	5
+Paweł R 	nam_liv	5
+Janusz Łukaszewski 	nam_liv	5
+przystępować 	nam_liv	5
+J 	nam_liv	5
+wykonawca CleanUp24 spółka 	nam_org	5
+prezes rad minister 	nam_org	5
+sąd okręgowy – sąd praca i ubezpieczenie społeczny 	nam_org	5
+Mariola sekunda 	nam_liv	5
+sąd okręgowy w Warszawa 	nam_org	5
+obecny odwoływać 	nam_liv	5
+Daniel k 	nam_liv	5
+zakład ubezpieczenie społeczny 	nam_org	4
+M 	nam_liv	4
+izba 	nam_liv	4
+przedsiębiorstwo budowlano 	nam_org	4
+UE 	nam_org	4
+Jerzy Kuźniar 	nam_liv	4
+Kazimierz szerszeń 	nam_liv	4
+przedsiębiorstwo Produkcyjno 	nam_org	4
+Control Process sekunda 	nam_org	4
+KRS 	nam_org	3
+GE winda Energy GmbH 	nam_org	3
+GE International sekunda 	nam_org	3
+saga Elbud Gdańsk holding sekunda 	nam_org	3
+urząd kontrola skarbowy 	nam_org	3
+Zbigniew Cieślak 	nam_liv	3
+Krzysztof M 	nam_liv	3
+z a sekunda a D 	nam_org	3
+biuletyn zamówienie publiczny 	nam_org	3
+Impel Cleaning spółka 	nam_org	3
+ekośrodowisko spółka 	nam_org	3
+SN 	nam_org	3
+sąd lekarski 	nam_org	3
+Bogusław L 	nam_liv	3
+sąd odwoławczy 	nam_org	3
+rada miejski w zator 	nam_org	3
+prezes urząd komunikacja elektroniczny 	nam_org	3
+ZUS 	nam_org	3
+Bogusław Cudowski 	nam_liv	3
+prezes urząd 	nam_org	3
+prawo zamówienie publiczny oraz niektóry inny ustawa 	nam_pro	3
+Henryk Ż 	nam_liv	3
+Zygmunt D 	nam_liv	3
+sąd rejonowy w P 	nam_org	3
+inwalid 	nam_org	3
+Asseco Poland sekunda 	nam_org	3
+sąd rejonowy dla Wrocław 	nam_org	3
+Asseco Poland spółka akcyjny 	nam_org	2
+Poland 	nam_loc	2
+krajowy rejestr karny 	nam_org	2
+Alstom Power spółka 	nam_org	2
+program Funkcjonalno 	nam_eve	2
+RODEN Road design Polska spółka 	nam_org	2
+sąd okręgowy w Wrocław wydział III karny 	nam_org	2
+bank sekunda 	nam_org	2
+Jan bajt 	nam_liv	2
+ordynacja podatkowy 	nam_pro	2
+Ewa Łętowska 	nam_liv	2
+kodeks postępowanie cywilny 	nam_pro	2
+Marek N 	nam_liv	2
+sąd 	nam_org	2
+Biernacki 	nam_liv	2
